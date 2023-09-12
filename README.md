@@ -1,6 +1,6 @@
-# Azure Serverless Python Function to split PDFs
+# Azure Serverless Python Function to remove EXIF data from images
 
-This repo will demonstrate how to deploy a serverless python function to Azure, and use this to automatically split PDFs into pages as they land in a blob storage location.
+This repo will demonstrate how to deploy a serverless python function to Azure, and use this to automatically remove EXIF data from images as they land in a blob storage location.
 
 
 ## Development environment setup
