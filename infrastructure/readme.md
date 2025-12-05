@@ -67,7 +67,7 @@ az functionapp create \
   --storage-account $STORAGE_ACCOUNT \
   --runtime python \
   --runtime-version 3.8 \
-  --functions-version 3 \
+  --functions-version 4 \
   --os-type linux
 ```
 
